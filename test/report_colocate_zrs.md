@@ -25,7 +25,7 @@ The report is about co-locate RNA transcripts identified by ISO-seq of iPSC, S1 
 
 2） Differential expression when comparing different stages. 
 
-![genes in 3 stages](http://raw.githubusercontent.com/WPI-Wulab/ISO_seq/master/Studies/co_locate_images/vene_gene_3stage.jpeg)
+![genes in 3 stages](https://raw.githubusercontent.com/WPI-Wulab/ISO_seq/master/Studies/co_locate_images/vene_gene_3stage.jpeg?token=AgAV6mqnowlCOTpmSQ7HZep1XGREfQlXks5ai5h4wA%3D%3D)
 ![ss] ()https://raw.githubusercontent.com/zrs120100/images/master/test/S1_co_locate.png
 3） The process of annotating peaks/regions is divided into two primary parts.  The first determines the distance to the nearest TSS and assigns the peak to that gene. 
  The second determines the genomic annotation of the region occupied by the center of the peak/region.
