@@ -32,7 +32,7 @@ The report is about co-locate RNA transcripts identified by ISO-seq of iPSC, S1 
 
 **Set different criterion: Distance to nearest RefSeq TSS <10000;**
 
-![co_locate_iPS](raw.githubusercontent.com/zrs120100/images/master/test/S1_co_locate.png)
+![co_locate_iPS](http://raw.githubusercontent.com/zrs120100/images/master/test/S1_co_locate.png)
 
 *[co_locate_S1](https://github.com/WPI-Wulab/ISO_seq/blob/master/Studies/co_locate_images/S1_co_locate_10000.png)
 
