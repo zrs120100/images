@@ -89,27 +89,57 @@ Less than 1000bp
 
 ![iPS<1000](https://github.com/WPI-Wulab/ISO_seq/raw/master/Studies/co_locate_images/gene%20level/iPS/iPS_1000.png)
 
-**iPS VS S1, Common expressed genes **
+**iPS VS S1, Common ATAC-peaks expressed genes **
 
 ![iPS/S1 COMMON EXPRESSED](https://github.com/WPI-Wulab/ISO_seq/raw/master/Studies/co_locate_images/gene%20level/iPS_S1/iPS/common.png)
 
-**iPS VS S1, specific expressed genes **
+**iPS VS S1, stage specific ATAC-peaks expressed genes **
 
 ![iPS specific EXPRESSED](https://github.com/WPI-Wulab/ISO_seq/raw/master/Studies/co_locate_images/gene%20level/iPS_S1/iPS/iPS.png)
 
-**iPS VS S2, Common expressed genes **
+**iPS VS S2, Common ATAC-peaks expressed genes **
 
 ![iPS/S2 COMMON EXPRESSED](https://github.com/WPI-Wulab/ISO_seq/blob/master/Studies/co_locate_images/gene%20level/iPS_S2/iPS/common.png)
 
-**iPS VS S2, specific expressed genes **
+**iPS VS S2, stage specific ATAC-peaks expressed genes **
 
 ![iPS specific EXPRESSED](https://github.com/WPI-Wulab/ISO_seq/raw/master/Studies/co_locate_images/gene%20level/iPS_S2/iPS/iPS.png)
 
 **S1  stage**
 
-Overall, 2826 genes that were expressed at significantly higher levels in stage S1 were associated with ATAC-Seq, which accounted for  84% of expressed genes.
+Overall, 2808 genes that were expressed at significantly higher levels in stage S1 were associated with ATAC-Seq, which accounted for  84% of expressed genes.
 
  ![co_locate_S1](https://github.com/WPI-Wulab/ISO_seq/raw/master/Studies/co_locate_images/gene%20level/S1.png)
+ 
+ **Different ways define ATAC-seq: Given a distance to TSS**
+ 
+ Less than 100bp
+  
+ ![S1<100](https://github.com/WPI-Wulab/ISO_seq/raw/master/Studies/co_locate_images/gene%20level/S1/S1_100.png)
+ 
+ Less than 500bp
+ 
+ ![S1<500](https://github.com/WPI-Wulab/ISO_seq/raw/master/Studies/co_locate_images/gene%20level/S1/S1_500.png)
+ 
+ Less than 1000bp
+ 
+ ![S1<1000](https://github.com/WPI-Wulab/ISO_seq/raw/master/Studies/co_locate_images/gene%20level/S1/S1_1000.png)
+ 
+ **iPS VS S1, Common ATAC-peaks expressed genes **
+ 
+ ![iPS/S1 COMMON EXPRESSED](https://github.com/WPI-Wulab/ISO_seq/raw/master/Studies/co_locate_images/gene%20level/iPS_S1/S1/common.png)
+ 
+ **iPS VS S1, stage specific ATAC-peaks expressed genes **
+ 
+ ![S1 specific EXPRESSED](https://github.com/WPI-Wulab/ISO_seq/raw/master/Studies/co_locate_images/gene%20level/iPS_S1/S1/S1.png)
+ 
+ **S1 VS S2, Common ATAC-peaks expressed genes **
+ 
+ ![S1/S2 COMMON EXPRESSED](https://github.com/WPI-Wulab/ISO_seq/blob/master/Studies/co_locate_images/gene%20level/S1_S2/S1/common.png)
+ 
+ **S1 VS S2, stage specific ATAC-peaks expressed genes **
+ 
+ ![S1 specific EXPRESSED](https://github.com/WPI-Wulab/ISO_seq/raw/master/Studies/co_locate_images/gene%20level/S1_S2/S1/S1.png)
  
  **S2 stage**
  
