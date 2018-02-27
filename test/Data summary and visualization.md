@@ -26,3 +26,5 @@ Tool: Samtools
 ![Histogram for ISM.D0](https://github.com/WPI-Wulab/ISO_seq/raw/master/Studies/Read%20length/Histogram/ISM.D0.jpeg)
 
 ![Histogram for ISM.D4](https://github.com/WPI-Wulab/ISO_seq/raw/master/Studies/Read%20length/Histogram/ISM.D4.jpeg)
+
+![iPS distanc <100](https://github.com/WPI-Wulab/ISO_seq/raw/master/Studies/co_locate_images/gene%20level/iPS/iPS_100.png)
