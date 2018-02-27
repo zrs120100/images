@@ -87,19 +87,27 @@ Less than 1000bp
 
 ![iPS<1000](https://github.com/WPI-Wulab/ISO_seq/raw/master/Studies/co_locate_images/gene%20level/iPS/iPS_1000.png)
 
-**iPS VS S1, Common ATAC-peaks expressed genes **
+**iPS VS S1, Common ATAC-peaks expressed genes**
 
 ![iPS/S1 COMMON EXPRESSED](https://github.com/WPI-Wulab/ISO_seq/raw/master/Studies/co_locate_images/gene%20level/iPS_S1/iPS/common.png)
 
-**iPS VS S1, stage specific ATAC-peaks expressed genes **
+**Common ATAC-peaks expressed genes with common expressed genes in iPS**
+
+![iPS common expressed](https://github.com/WPI-Wulab/ISO_seq/raw/master/Studies/co_locate_images/gene%20level/iPS_S1/iPS/common_common.png)
+
+**iPS VS S1, stage specific ATAC-peaks expressed genes**
 
 ![iPS specific EXPRESSED](https://github.com/WPI-Wulab/ISO_seq/raw/master/Studies/co_locate_images/gene%20level/iPS_S1/iPS/iPS.png)
 
-**iPS VS S2, Common ATAC-peaks expressed genes **
+**stage specific ATAC-peaks expressed genes co-locate with specific expressed genes in iPS**
 
-![iPS/S2 COMMON EXPRESSED](https://github.com/WPI-Wulab/ISO_seq/blob/master/Studies/co_locate_images/gene%20level/iPS_S2/iPS/common.png)
+![iPS specific EXPRESSED](https://github.com/WPI-Wulab/ISO_seq/raw/master/Studies/co_locate_images/gene%20level/iPS_S1/iPS/iPS_spe.png)
 
-**iPS VS S2, stage specific ATAC-peaks expressed genes **
+**iPS VS S2, Common ATAC-peaks expressed genes**
+
+![iPS/S2 COMMON EXPRESSED](https://github.com/WPI-Wulab/ISO_seq/raw/master/Studies/co_locate_images/gene%20level/iPS_S2/iPS/common.png)
+
+**iPS VS S2, stage specific ATAC-peaks expressed genes**
 
 ![iPS specific EXPRESSED](https://github.com/WPI-Wulab/ISO_seq/raw/master/Studies/co_locate_images/gene%20level/iPS_S2/iPS/iPS.png)
 
@@ -123,19 +131,20 @@ Overall, 2808 genes that were expressed at significantly higher levels in stage 
  
  ![S1<1000](https://github.com/WPI-Wulab/ISO_seq/raw/master/Studies/co_locate_images/gene%20level/S1/1000.png)
  
- **iPS VS S1, Common ATAC-peaks expressed genes **
+ **iPS VS S1, Common ATAC-peaks expressed genes**
  
  ![iPS/S1 COMMON EXPRESSED](https://github.com/WPI-Wulab/ISO_seq/raw/master/Studies/co_locate_images/gene%20level/iPS_S1/S1/common.png)
  
- **iPS VS S1, stage specific ATAC-peaks expressed genes **
+ **iPS VS S1, stage specific ATAC-peaks expressed genes**
  
  ![S1 specific EXPRESSED](https://github.com/WPI-Wulab/ISO_seq/raw/master/Studies/co_locate_images/gene%20level/iPS_S1/S1/S1.png)
  
- **S1 VS S2, Common ATAC-peaks expressed genes **
  
- ![S1/S2 COMMON EXPRESSED](https://github.com/WPI-Wulab/ISO_seq/blob/master/Studies/co_locate_images/gene%20level/S1_S2/S1/common.png)
+ **S1 VS S2, Common ATAC-peaks expressed genes**
  
- **S1 VS S2, stage specific ATAC-peaks expressed genes **
+ ![S1/S2 COMMON EXPRESSED](https://github.com/WPI-Wulab/ISO_seq/raw/master/Studies/co_locate_images/gene%20level/S1_S2/S1/common.png)
+ 
+ **S1 VS S2, stage specific ATAC-peaks expressed genes**
  
  ![S1 specific EXPRESSED](https://github.com/WPI-Wulab/ISO_seq/raw/master/Studies/co_locate_images/gene%20level/S1_S2/S1/S1.png)
  
@@ -143,7 +152,7 @@ Overall, 2808 genes that were expressed at significantly higher levels in stage 
  
 Overall, 1349 genes that were expressed at significantly higher levels in stage S1 were associated with ATAC-Seq, which accounted for  81% of expressed genes.
  
- ![co_locate_S2](https://raw.githubusercontent.com/WPI-Wulab/ISO_seq/master/Studies/co_locate_images/gene%20level/S2.png?token=AgAV6kb6g5GLPSd1JXCPIZ-BMscWyVCcks5alMXDwA%3D%3D)
+ ![co_locate_S2](https://github.com/WPI-Wulab/ISO_seq/raw/master/Studies/co_locate_images/gene%20level/S2.png)
  
 **Different ways define ATAC-seq: Given a distance to TSS**
  
@@ -159,30 +168,28 @@ Overall, 1349 genes that were expressed at significantly higher levels in stage 
  
  ![S2<1000](https://github.com/WPI-Wulab/ISO_seq/raw/master/Studies/co_locate_images/gene%20level/S2/1000.png)
  
- **iPS VS S2, Common ATAC-peaks expressed genes **
+ **iPS VS S2, Common ATAC-peaks expressed genes**
  
  ![iPS/S2 COMMON EXPRESSED](https://github.com/WPI-Wulab/ISO_seq/raw/master/Studies/co_locate_images/gene%20level/iPS_S2/S2/common.png)
  
- **iPS VS S2, stage specific ATAC-peaks expressed genes **
+ **iPS VS S2, stage specific ATAC-peaks expressed genes**
  
  ![S2 specific EXPRESSED](https://github.com/WPI-Wulab/ISO_seq/raw/master/Studies/co_locate_images/gene%20level/iPS_S2/S2/S2.png)
  
- **S1 VS S2, Common ATAC-peaks expressed genes **
+ **S1 VS S2, Common ATAC-peaks expressed genes**
  
  ![S1/S2 COMMON EXPRESSED](https://github.com/WPI-Wulab/ISO_seq/blob/master/Studies/co_locate_images/gene%20level/S1_S2/S2/common.png)
  
- **S1 VS S2, stage specific ATAC-peaks expressed genes **
+ **S1 VS S2, stage specific ATAC-peaks expressed genes**
  
  ![S2 specific EXPRESSED](https://github.com/WPI-Wulab/ISO_seq/raw/master/Studies/co_locate_images/gene%20level/S1_S2/S2/S2.png)
  
- [Try different ways to define ATAC-seq associated genes(e.g., by a given distance to TSS; stage-specific / common ATAC-peaks and genes related to them). Give the interpretations of the results. ]
- 
-These results suggest that open chromatin may be a good predictor of gene activation in 3 stages. Although the number of genes changing in different stages, the percent of it didn't show obvious variation. Perhaps there is no inherent differences in gene regulation in
-these three stages. 
+These results suggest that open chromatin may be a good predictor of gene activation in 3 stages. Although the number of genes changing in different stages, the percent of it doesn't show obvious variation. Perhaps there is no inherent differences in gene regulation in
+these three stages. Even though setting lower criterion of distance to TSS, half of the genes in different stages still can be predicted by ATAC-seq.
 
 Furthermore, there were many more genes with ATAC-seq peaks that were not expressed in Iso-Seq among 3 stages. Only 8%, 14% and 7% ATAC-seq peaks mapped to differentially expressed genes. 
 
-Most expressed genes in three stages co-locate with genes related to common ATAC-peaks.
+Most expressed genes in three stages co-locate with genes related to common ATAC-peaks. This proves that there is no inherent differences in gene regulation process.
 
 ##Coloate based on location
 Tool: bedtools
